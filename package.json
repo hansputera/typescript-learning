@@ -1,0 +1,13 @@
+{
+ "name": "ts-learn",
+ "version": "0.0.1",
+ "description": "My TypeScript Learn",
+ "scripts": {
+  "test": "tsc ./1/index.ts"
+  },
+  "devDependencies": {
+    "typescript": "*"
+  },
+  "author": "Hans",
+  "license": "ISC"
+}
